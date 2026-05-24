@@ -1,101 +1,63 @@
 # MergePlushies 🐾
 
-Một tựa game merge động vật casual được phát triển bằng Unity.
+A casual merge game developed with Unity.
 
-Người chơi sẽ kéo, thả và hợp nhất các sinh vật giống nhau để tiến hóa thành loài mới, mở khóa phần thưởng và đạt điểm số cao nhất.
+Drag, merge, and evolve adorable creatures into higher-tier species, unlock rewards, and achieve the highest score possible.
 
 ---
 
-## 🎮 Gameplay
+## 🎮 Features
 
-- Merge các sinh vật giống nhau
-- Hệ thống shop và vật phẩm hỗ trợ
-- Achievement & reward system
+- Merge evolution gameplay
+- Creature progression system
 - Daily rewards
+- Achievement system
+- Shop and support items
+- Mobile-optimized UI
+- Casual and relaxing gameplay
+- Reward ads support
 - Score leaderboard
-- UI tối ưu cho mobile
-- Gameplay casual, dễ chơi
 
 ---
 
 ## 📸 Preview
+
 //
 
-## 🛠 Engine & Tools
+---
+
+## 🛠️ Engine & Tools
 
 - Unity
 - C#
-- Visual Studio 2026
+- Visual Studio
 - GitHub
 
 ---
 
-## ✨ Features
-
-### Merge Evolution System
-
-- Hợp nhất các sinh vật cùng loại
-- Mở khóa creature cấp cao hơn
-- Tăng score theo độ hiếm của creature
-
-### Achievement System
-
-- Theo dõi tiến trình người chơi
-- Nhận reward khi hoàn thành mục tiêu
-
-### Daily Reward
-
-- Nhận quà mỗi ngày
-- Hệ thống timer reset
-
-### Shop System
-
-- Mua item hỗ trợ
-- Watch Ads để nhận bonus
-
-### Mobile Optimization
-
-- UI responsive
-- Touch input support
-- Lightweight performance
-
----
-
-## 🚀 Build Platforms
+## 📱 Platforms
 
 - Android
 - Windows (Testing)
 
 ---
 
-## 📦 Installation
+## 🚀 Future Plans
 
-Clone repository:
-
-```bash
-none
-```
-
-Mở project bằng Unity Hub.
-
----
-
-## 📌 Future Plans
-
-- More animal evolutions
-- Better visual effects
-- Cloud save
+- More creature evolutions
+- Improved visual effects
+- Cloud save system
 - Online leaderboard
-- New game modes
+- Additional game modes
 
 ---
 
 ## 👨‍💻 Developer
 
-Developed by Xenos (BaoPham).
+Developed by Xenos (BaoPham)
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is for learning and portfolio purposes.
+This project is created for learning and portfolio purposes.
