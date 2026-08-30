@@ -29,6 +29,7 @@ public class ShopUI : MonoBehaviour
         bombPrice.text = ItemShop.Instance.GetPrice(ItemType.Bomb) + " G";
         swapPrice.text = ItemShop.Instance.GetPrice(ItemType.Swap) + " G";
         backBtn.onClick.AddListener(OnBackClick);
+        BannerAdManager.Instance.ShowBanner();
     }
 
     void Update()
@@ -49,6 +50,8 @@ public class ShopUI : MonoBehaviour
     void OnBackClick()
     {
         AudioManager.Instance.PlayTouch();
+        BannerAdManager.Instance.HideBanner();
         SceneFader.Instance.LoadScene("MainMenu");
+
     }
 }
